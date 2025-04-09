@@ -32,14 +32,10 @@ This project aims to support students in regional and national languages with si
 
 Tech Stack
 
-Frontend: HTML, CSS, JavaScript (or React if you're using it)
-
-Backend: Node.js / Python / Firebase (customize based on your stack)
+Frontend: HTML, CSS, JavaScript
 
 Database: MongoDB / MySQL / Firestore (if applicable)
 
-
-Getting Started
 
 1. Clone the repository
 
