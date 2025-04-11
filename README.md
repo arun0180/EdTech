@@ -34,21 +34,3 @@ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
-Database: MongoDB / MySQL / Firestore (if applicable)
-
-
-1. Clone the repository
-
-git clone https://github.com/yourusername/light-of-education.git
-cd light-of-education
-
-
-2. Install dependencies
-
-npm install
-
-
-3. Start the development server
-
-npm start
-
